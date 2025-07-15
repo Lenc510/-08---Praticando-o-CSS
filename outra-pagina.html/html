@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre</title>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="outra-pagina.html">Sobre</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Meu site é muito legal</h1>
+        <p>Esta página contém informações sobre o site.</p>
+        <p>O site foi criado para aprender e aplicar conceitos básicos de HTML e CSS. Ele possui um layout simples, mas funcional, e está em constante evolução.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Luick Eduardo Neres Costa</p>
+    </footer>
+</body>
+</html>
